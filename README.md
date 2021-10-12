@@ -2,7 +2,6 @@
 
 ### 💻  关于我
 * 2018年软件工程毕业
-* 喜欢学习Devops
 * 富文本编辑器，WebGL爱好者
 * 荣耀王者，有一只猫
 
@@ -14,9 +13,8 @@
 ![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
 
 ###  📫 2021目标
-* 编辑器雏形完成
-* 熟悉canvas
-* 重新学习JavaScript
+* seedEditor编辑器雏形完成
+* 重新学习前端知识体系
 
 <img src="https://github-readme-stats.vercel.app/api?username=AdamLambet&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
